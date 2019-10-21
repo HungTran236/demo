@@ -1,1 +1,2 @@
 conflict line 1 by dev2
+conflict line 2 by dev2
