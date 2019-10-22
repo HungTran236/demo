@@ -14,3 +14,4 @@ this is the line 13 of dev2 branch
 this is the line 14 master
 this is the line 15 master
 this is the line 16 master
+conflict commit 2
