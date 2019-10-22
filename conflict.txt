@@ -4,3 +4,4 @@ conflict line 3 by dev2
 conflict line 4 by dev2
 conflict line 5 by dev2
 conflict line 6 by dev2
+conflict commit 1
