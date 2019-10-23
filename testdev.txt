@@ -3,3 +3,4 @@ test dev line 2
 test dev line 3
 rebase conflict master
 conflict commit 3
+line 6
