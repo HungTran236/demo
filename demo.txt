@@ -16,3 +16,4 @@ this is the line 15 master
 this is the line 16 master
 rebase conflict master
 conflict commit 2
+commit new
